@@ -1,10 +1,13 @@
 This project is made by:- Aneesh sharma (IT)(11912055)
 
+#How to Run:-
+To run the project you need PHPMyAdmin running on your device
+In PHPMyAdmin Select Import and select ./database/Application.sql file and Import
+Now Rum Home.HTML on the Localhost.
 
 #Project details
 It is a website created for the clubs in IIITSonepat.It contains the home page for the details of different clubs,a news page for any latest news regarding the clubs
 a contact page for cantact details of coordinators of the club and a portal to apply for the clubs.
-
 
 #Key Features of the website
 1.Languages used :- HTML,JAVAScript,CSS,PHP,SQLquery.
